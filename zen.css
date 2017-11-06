@@ -1,0 +1,30 @@
+
+.container {
+    position: relative;
+}
+}
+body {
+    font: 75% georgia, sans-serif;
+    background: #fff url(http://csszengarden.com/001/blossoms.jpg) no-repeat bottom right;
+    section {
+    width: 200px
+    background-color: green;
+    font-family: 'Rozha One', serif;
+}
+@media (min-width: 400px){
+    aside {
+      width: 25%;
+      float:left;
+    }
+}
+
+img {
+    float: left;
+    margin: 0 0 1em 1em;
+}
+ footer {
+  position: static;
+  height: 80px;
+  background-color: red;
+  width: 100%;
+ }
